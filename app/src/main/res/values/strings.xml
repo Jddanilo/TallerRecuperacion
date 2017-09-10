@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TallerRecuperacion</string>
+    <string name="tx1">James Wilson</string>
+    <string name="tx2">Posted</string>
+    <string name="str_1">James Wilson</string>
+    <string name="str_2">Posted</string>
+    <string name="txt1">2k</string>
+    <string name="t2">98</string>
+    <string name="tx4">69</string>
+    <string name="ttt1">happiness murmurs your beauty</string>
+    <string name="ttt2">$99</string>
+    <string name="st1">item1</string>
+    <string name="st2">item2</string>
+    <string name="st3">item4</string>
+    <string name="st4">item4</string>
+    <string name="st5">5</string>
+</resources>
